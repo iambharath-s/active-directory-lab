@@ -49,6 +49,12 @@ Build it in under 2 hours. Attack it from Kali. No Vagrant. No Ansible. Just Vir
 
 ---
 
+## 🏗️ Overview
+
+![Active Directory Lab Architecture](images/architecture.png)
+
+*Architecture of the isolated Active Directory penetration testing lab.*
+
 ## ⚔️ Attack Matrix
 
 | # | Attack | Technique | Tool | MITRE ATT&CK |
