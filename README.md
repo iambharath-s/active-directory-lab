@@ -72,9 +72,9 @@ This diagram illustrates the lab infrastructure,
 including the Kali attacker machine, Windows Server
 domain controller, and isolated VirtualBox network.
 
-![Active Directory lab architecture showing Kali
-Linux, Windows Server DC01, and domain services]
-(images/architecture.png)
+![Active Directory penetration testing lab
+architecture showing Kali Linux, DC01,
+and domain services](images/architecture.png)
 
 *The lab is intended for isolated, authorized
 penetration testing practice.*
