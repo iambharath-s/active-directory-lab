@@ -270,7 +270,7 @@ This lab is for **authorized penetration testing training only**.
 Cybersecurity Student & Security Researcher
 
 
-[![GitHub](https://img.shields.io/badge/gitHub-iambharath-s-black?logo=github)](https://github.com/iambharath-s)
+[![GitHub](https://img.shields.io/badge/GitHub-iambharath--s-black?logo=github)](https://github.com/iambharath-s)
 
 ---
 
