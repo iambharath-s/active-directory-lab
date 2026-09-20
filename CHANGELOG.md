@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to corp-lab are documented here.
+All notable changes to active-directory-lab are documented here.
 Format: [Version] - YYYY-MM-DD
 
 ---
