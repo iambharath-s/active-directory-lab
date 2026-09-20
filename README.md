@@ -9,7 +9,7 @@
 [![OS](https://img.shields.io/badge/Target-Windows%20Server%202022-0078d4)](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
 [![Attacker](https://img.shields.io/badge/Attacker-Kali%20Linux-557C94)](https://www.kali.org/)
 [![CEH](https://img.shields.io/badge/Exam%20Prep-CEH%20v13-red)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
-[![Stars](https://img.shields.io/github/stars/yourusername/active-directory-lab?style=social)](https://github.com/yourusername/active-directory-lab)
+[![Stars](https://img.shields.io/github/stars/yourusername/active-directory-lab?style=social)](https://github.com/iambharath-s/active-directory-lab)
 
 **A single Windows Server 2022 Domain Controller pre-loaded with 13 AD attack surfaces.**
 Build it in under 2 hours. Attack it from Kali. No Vagrant. No Ansible. Just VirtualBox and PowerShell.
