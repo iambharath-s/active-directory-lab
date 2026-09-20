@@ -1,6 +1,6 @@
-# Contributing to corp-lab
+# Contributing to active-directory-lab
 
-Contributions are welcome. This project is maintained by the Cyberanzen Security Club at SRM IST-Trichy.
+Contributions are welcome. This project is maintained By Me :).
 
 ## What to Contribute
 
