@@ -4,7 +4,7 @@
 
 corp-lab is an **isolated training environment** designed for:
 
-- CEH (Certified Ethical Hacker) exam preparation
+- CEH (Certified Ethical Hacker)/ OSCP exam preparation
 - Penetration testing skill development
 - Classroom demonstrations in authorized cybersecurity courses
 - Personal practice in a fully isolated VirtualBox network
