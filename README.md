@@ -1,8 +1,9 @@
+
 <div align="center">
 
-# 🏴 active-directory-lab
+# 🏴 Active Directory Penetration Testing Lab
 
-### Vulnerable Active Directory Lab for Penetration Testing Practice
+### A Hands-On Vulnerable Active Directory Lab for Cybersecurity Practice
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-VirtualBox-blue)](https://www.virtualbox.org/)
@@ -11,10 +12,25 @@
 [![CEH](https://img.shields.io/badge/Exam%20Prep-CEH%20v13-red)](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
 [![Stars](https://img.shields.io/github/stars/iambharath-s/active-directory-lab?style=social)](https://github.com/iambharath-s/active-directory-lab)
 
-**A single Windows Server 2022 Domain Controller pre-loaded with 13 AD attack surfaces.**
-Build it in under 2 hours. Attack it from Kali. No Vagrant. No Ansible. Just VirtualBox and PowerShell.
+**Build and practice against an intentionally vulnerable
+Windows Server 2022 Active Directory environment.**
 
-[Quick Start](#-quick-start) · [Attack Matrix](#-attack-matrix) · [Documentation](docs/) · [Troubleshooting](docs/troubleshooting.md)
+Designed for cybersecurity beginners, CEH students,
+and penetration testers who want hands-on practice
+with Active Directory attack techniques.
+
+- 1 Windows Server 2022 Domain Controller
+- 13 intentionally configured attack surfaces
+- Kali Linux as the attacker machine
+- VirtualBox and PowerShell for lab setup
+
+Setup time: estimated at under 2 hours, depending
+on your hardware and familiarity with the setup process.
+
+[Quick Start](#-quick-start) ·
+[Attack Matrix](#-attack-matrix) ·
+[Documentation](docs/) ·
+[Troubleshooting](docs/troubleshooting.md)
 
 </div>
 
@@ -49,11 +65,20 @@ Build it in under 2 hours. Attack it from Kali. No Vagrant. No Ansible. Just Vir
 
 ---
 
-## 🏗️ Overview
 
-![Active Directory Lab Architecture](images/architecture.png)
+## 🏗️ High-View
 
-*Architecture of the isolated Active Directory penetration testing lab.*
+This diagram illustrates the lab infrastructure,
+including the Kali attacker machine, Windows Server
+domain controller, and isolated VirtualBox network.
+
+![Active Directory lab architecture showing Kali
+Linux, Windows Server DC01, and domain services]
+(images/architecture.png)
+
+*The lab is intended for isolated, authorized
+penetration testing practice.*
+
 
 ## ⚔️ Attack Matrix
 
