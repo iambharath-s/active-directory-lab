@@ -2,7 +2,7 @@
 
 ## Intended Use
 
-corp-lab is an **isolated training environment** designed for:
+active-directory-lab is an **isolated training environment** designed for:
 
 - CEH (Certified Ethical Hacker)/ OSCP exam preparation
 - Penetration testing skill development
