@@ -266,11 +266,11 @@ This lab is for **authorized penetration testing training only**.
 
 ## 👤 Author
 
-**Bharath (Venkat Bharath Saripudi)**
-Technical Head, Cyberanzen Security Club — SRM IST-Trichy
-CEH prep lab built for classroom demos and independent practice.
+**Bharath**
+Cybersecurity Student & Security Researcher
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?logo=github)](https://github.com/yourusername)
+
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?logo=github)](https://github.com/iambharath-s)
 
 ---
 
